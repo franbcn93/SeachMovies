@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Echa un vistazo al proyecto [Aquí...](https://franbcn93.github.io/SeachMovies).
 
 ## Available Scripts
 
